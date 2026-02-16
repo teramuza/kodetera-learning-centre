@@ -1,4 +1,4 @@
-# Learning Centre: Materi Pembelajaran Teknologi
+# KodeTera Learning Centre: Materi Pembelajaran Teknologi
 
 ## 📚 Deskripsi Repository
 
