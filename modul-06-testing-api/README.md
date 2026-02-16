@@ -1,4 +1,4 @@
-# Modul 7: Testing API
+# Modul 6: Testing API
 
 ## 🎯 Tujuan Pembelajaran
 
@@ -14,7 +14,7 @@ Setelah modul ini, peserta dapat:
 
 ---
 
-## 📚 Materi 7.1: Pengenalan Testing API
+## 📚 Materi 6.1: Pengenalan Testing API
 
 ### Penjelasan untuk Instruktur
 
@@ -94,7 +94,7 @@ Develop → Test → Fix → Test lagi → Deploy
 - Sedang integration test
 - Sedikit E2E test (mahal, lambat)
 
-### Latihan 7.1
+### Latihan 6.1
 
 ```
 Jawab pertanyaan berikut:
@@ -107,7 +107,7 @@ Tulis jawaban Anda:
 
 ---
 
-## 📚 Materi 7.2: Testing dengan Postman
+## 📚 Materi 6.2: Testing dengan Postman
 
 ### Penjelasan untuk Instruktur
 
@@ -299,7 +299,7 @@ pm.environment.set("timestamp", new Date().toISOString());
 - Regression testing
 - CI/CD integration
 
-### Latihan 7.2
+### Latihan 6.2
 
 ```
 Praktikkan dengan Postman:
@@ -323,7 +323,7 @@ Catat setiap langkah:
 
 ---
 
-## 📚 Materi 7.3: Unit Testing dengan Jest
+## 📚 Materi 6.3: Unit Testing dengan Jest
 
 ### Penjelasan untuk Instruktur
 
@@ -559,7 +559,7 @@ describe('UserService', () => {
 });
 ```
 
-### Latihan 7.3
+### Latihan 6.3
 
 ```typescript
 // Buat unit test untuk:
@@ -584,7 +584,7 @@ describe('UserService', () => {
 
 ---
 
-## 📚 Materi 7.4: Integration Testing
+## 📚 Materi 6.4: Integration Testing
 
 ### Penjelasan untuk Instruktur
 
@@ -804,7 +804,7 @@ describe('User Integration Tests', () => {
 });
 ```
 
-### Latihan 7.4
+### Latihan 6.4
 
 ```typescript
 // Buat integration test untuk:
@@ -833,7 +833,7 @@ describe('User Integration Tests', () => {
 
 ---
 
-## 📚 Materi 7.5: Test Coverage dan Best Practices
+## 📚 Materi 6.5: Test Coverage dan Best Practices
 
 ### Penjelasan untuk Instruktur
 
@@ -1012,7 +1012,7 @@ jobs:
 - Catch bugs sebelum merge
 - Confidence saat deploy
 
-### Latihan 7.5
+### Latihan 6.5
 
 ```
 Review test code Anda:
@@ -1028,7 +1028,7 @@ Identifikasi area yang perlu diperbaiki:
 
 ---
 
-## 📚 Materi 7.6: Advanced Testing Techniques
+## 📚 Materi 6.6: Advanced Testing Techniques
 
 ### Penjelasan untuk Instruktur
 
@@ -1148,7 +1148,7 @@ it('should respond within acceptable time', async () => {
 - Test dengan banyak concurrent requests
 - Monitor performance metrics
 
-### Latihan 7.6
+### Latihan 6.6
 
 ```typescript
 // Implementasikan:
@@ -1163,7 +1163,7 @@ it('should respond within acceptable time', async () => {
 
 ---
 
-## ✅ Review Modul 7
+## ✅ Review Modul 6
 
 ### Checklist Pemahaman
 
@@ -1205,6 +1205,21 @@ Setelah modul ini, pastikan peserta memahami:
 - Postman collection dengan semua endpoints
 - Test coverage minimal 80%
 - Semua tests passing
+
+---
+
+## 🎯 Persiapan untuk Modul Berikutnya
+
+Modul berikutnya akan membahas praktik dengan boilerplate repository. Pastikan peserta sudah nyaman dengan:
+- ✅ Testing dengan Postman untuk manual testing
+- ✅ Unit testing dengan Jest
+- ✅ Integration testing
+- ✅ Test coverage dan best practices
+
+**Catatan Instruktur:** 
+- Setelah belajar testing, peserta akan praktik dengan boilerplate
+- Saat praktik, dorong peserta untuk langsung test kode yang dibuat
+- Testing akan membantu memastikan kualitas kode selama development
 
 ---
 

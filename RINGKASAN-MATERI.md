@@ -23,11 +23,11 @@ learning-centre/
 ├── modul-05-rest-api/
 │   └── README.md                          # Materi REST API development
 │
-├── modul-06-praktik-boilerplate/
-│   └── README.md                          # Praktik dengan boilerplate
+├── modul-06-testing-api/
+│   └── README.md                          # Testing API
 │
-└── modul-07-testing-api/
-    └── README.md                          # Testing API
+└── modul-07-praktik-boilerplate/
+    └── README.md                          # Praktik dengan boilerplate
 ```
 
 ## 📚 Isi Setiap Modul
@@ -88,18 +88,7 @@ learning-centre/
 
 **Fokus:** Membangun REST API yang lengkap dan proper
 
-### Modul 6: Praktik dengan Boilerplate (2-3 sesi)
-**Topik:**
-- Setup Boilerplate
-- Memahami Struktur Project
-- Memahami Arsitektur
-- Menambahkan Fitur Baru
-- Best Practices
-- Troubleshooting
-
-**Fokus:** Menerapkan pengetahuan ke project nyata
-
-### Modul 7: Testing API (2-3 sesi)
+### Modul 6: Testing API (2-3 sesi)
 **Topik:**
 - Pengenalan Testing API
 - Testing dengan Postman (Manual Testing)
@@ -109,6 +98,19 @@ learning-centre/
 - Advanced Testing Techniques
 
 **Fokus:** Memastikan kualitas kode dengan testing
+
+**Catatan:** Modul Testing dipelajari setelah REST API agar peserta bisa langsung test API yang sudah dibuat sebelum praktik dengan boilerplate.
+
+### Modul 7: Praktik dengan Boilerplate (2-3 sesi)
+**Topik:**
+- Setup Boilerplate
+- Memahami Struktur Project
+- Memahami Arsitektur
+- Menambahkan Fitur Baru
+- Best Practices
+- Troubleshooting
+
+**Fokus:** Menerapkan pengetahuan ke project nyata sambil menggunakan testing untuk memastikan kualitas kode
 
 ## 🎯 Karakteristik Materi
 

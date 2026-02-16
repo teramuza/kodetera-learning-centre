@@ -1,4 +1,4 @@
-# Modul 6: Praktik dengan Boilerplate
+# Modul 7: Praktik dengan Boilerplate
 
 ## 🎯 Tujuan Pembelajaran
 
@@ -13,7 +13,7 @@ Setelah modul ini, peserta dapat:
 
 ---
 
-## 📚 Materi 6.1: Setup Boilerplate
+## 📚 Materi 7.1: Setup Boilerplate
 
 ### Penjelasan untuk Instruktur
 
@@ -119,7 +119,7 @@ curl http://localhost:3000/health
 # { "status": "ok", "timestamp": "2024-..." }
 ```
 
-### Latihan 6.1
+### Latihan 7.1
 
 ```bash
 # Setup boilerplate di komputer Anda:
@@ -136,7 +136,7 @@ curl http://localhost:3000/health
 
 ---
 
-## 📚 Materi 6.2: Memahami Struktur Project
+## 📚 Materi 7.2: Memahami Struktur Project
 
 ### Penjelasan untuk Instruktur
 
@@ -237,7 +237,7 @@ middlewares/
 └── rateLimiter.ts      # Rate limiting
 ```
 
-### Latihan 6.2
+### Latihan 7.2
 
 ```typescript
 // Jelajahi struktur project boilerplate:
@@ -252,7 +252,7 @@ middlewares/
 
 ---
 
-## 📚 Materi 6.3: Memahami Arsitektur
+## 📚 Materi 7.3: Memahami Arsitektur
 
 ### Penjelasan untuk Instruktur
 
@@ -358,7 +358,7 @@ app.use(errorHandler);
 }
 ```
 
-### Latihan 6.3
+### Latihan 7.3
 
 ```typescript
 // Analisis arsitektur boilerplate:
@@ -373,7 +373,7 @@ app.use(errorHandler);
 
 ---
 
-## 📚 Materi 6.4: Menambahkan Fitur Baru
+## 📚 Materi 7.4: Menambahkan Fitur Baru
 
 ### Penjelasan untuk Instruktur
 
@@ -725,7 +725,7 @@ export default {
 npm run db:migrate
 ```
 
-### Latihan 6.4
+### Latihan 7.4
 
 ```typescript
 // Tambahkan fitur baru ke boilerplate:
@@ -750,7 +750,7 @@ npm run db:migrate
 
 ---
 
-## 📚 Materi 6.5: Best Practices
+## 📚 Materi 7.5: Best Practices
 
 ### Penjelasan untuk Instruktur
 
@@ -872,7 +872,7 @@ res.json(users); // Langsung return data
 res.json({ users }); // Format berbeda
 ```
 
-### Latihan 6.5
+### Latihan 7.5
 
 ```typescript
 // Review kode yang sudah Anda buat:
@@ -888,7 +888,7 @@ res.json({ users }); // Format berbeda
 
 ---
 
-## 📚 Materi 6.6: Troubleshooting Common Issues
+## 📚 Materi 7.6: Troubleshooting Common Issues
 
 ### Penjelasan untuk Instruktur
 
@@ -976,7 +976,7 @@ Invalid token
 - Check token expiration
 - Verify token di jwt.io untuk debugging
 
-### Latihan 6.6
+### Latihan 7.6
 
 ```typescript
 // Jika Anda mengalami error:
@@ -992,7 +992,7 @@ Invalid token
 
 ---
 
-## ✅ Review Modul 6
+## ✅ Review Modul 7
 
 ### Checklist Pemahaman
 
@@ -1047,22 +1047,7 @@ Buat aplikasi REST API lengkap menggunakan boilerplate dengan fitur:
 
 ---
 
-## 🎯 Persiapan untuk Modul Berikutnya
-
-Modul berikutnya akan membahas Testing API. Pastikan peserta sudah nyaman dengan:
-- ✅ Struktur project boilerplate
-- ✅ Menambahkan fitur baru
-- ✅ Best practices dalam development
-- ✅ Git workflow untuk collaboration
-
-**Catatan Instruktur:** 
-- Modul berikutnya akan fokus pada testing
-- Pastikan peserta sudah bisa membuat API yang lengkap
-- Testing akan membantu memastikan kualitas kode
-
----
-
-## 🎯 Kesimpulan Modul 6
+## 🎯 Kesimpulan Modul 7
 
 Selamat! Anda telah menyelesaikan modul praktik dengan boilerplate. Sekarang Anda memiliki:
 

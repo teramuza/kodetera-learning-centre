@@ -66,15 +66,7 @@ Setelah menyelesaikan kursus ini, peserta diharapkan dapat:
 - Authentication dengan JWT
 - Database Integration (Sequelize)
 
-### [Modul 6: Praktik dengan Boilerplate](./modul-06-praktik-boilerplate/README.md)
-**Durasi: 2-3 sesi**
-
-- Setup Project
-- Struktur Project
-- Implementasi Fitur Baru
-- Best Practices
-
-### [Modul 7: Testing API](./modul-07-testing-api/README.md)
+### [Modul 6: Testing API](./modul-06-testing-api/README.md)
 **Durasi: 2-3 sesi**
 
 - Pengenalan Testing API
@@ -83,6 +75,18 @@ Setelah menyelesaikan kursus ini, peserta diharapkan dapat:
 - Integration Testing
 - Test Coverage dan Best Practices
 - Advanced Testing Techniques
+
+**Catatan:** Modul Testing dipelajari setelah REST API agar peserta bisa langsung test API yang sudah dibuat.
+
+### [Modul 7: Praktik dengan Boilerplate](./modul-07-praktik-boilerplate/README.md)
+**Durasi: 2-3 sesi**
+
+- Setup Project
+- Struktur Project
+- Implementasi Fitur Baru
+- Best Practices
+
+**Catatan:** Modul ini adalah praktik akhir dimana peserta akan menggunakan pengetahuan testing yang sudah dipelajari untuk memastikan kode yang dibuat berkualitas.
 
 ## 🚀 Cara Menggunakan Materi Ini
 

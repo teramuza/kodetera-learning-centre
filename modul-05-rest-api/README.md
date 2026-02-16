@@ -1199,7 +1199,7 @@ Buat REST API lengkap dengan fitur berikut:
 
 ## 🎯 Persiapan untuk Modul Berikutnya
 
-Modul berikutnya akan membahas praktik dengan boilerplate repository. Pastikan peserta sudah nyaman dengan:
+Modul berikutnya akan membahas Testing API. Pastikan peserta sudah nyaman dengan:
 - ✅ REST API development
 - ✅ CRUD operations
 - ✅ Authentication
@@ -1211,3 +1211,4 @@ Modul berikutnya akan membahas praktik dengan boilerplate repository. Pastikan p
 - Pastikan peserta memahami konsep sebelum praktik
 - Latihan praktik sangat penting di sini
 - Siapkan waktu ekstra untuk troubleshooting
+- Setelah ini, peserta akan belajar testing untuk memastikan API yang dibuat bekerja dengan benar
