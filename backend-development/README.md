@@ -1,24 +1,8 @@
-# Learning Centre: Materi Pembelajaran Teknologi
+# Backend Development (Modul 1.x): JavaScript → TypeScript → Express → REST API
 
-## 📚 Deskripsi Repository
+## 📚 Deskripsi Kursus
 
-Repository ini berisi materi pembelajaran untuk berbagai teknologi dan platform. Materi disusun secara bertahap dan mudah dipahami untuk pemula.
-
-## 📁 Struktur Repository
-
-```
-learning-centre/
-├── backend-development/    # Materi Backend Development (REST API, Express, Node.js, dll)
-├── frontend-development/   # Materi Frontend Development (React, Vue, Angular, dll)
-├── mobile-development/     # Materi Mobile Development (React Native, Flutter, dll)
-└── ...
-```
-
----
-
-# Modul 1: Backend Development
-
-Materi pembelajaran untuk Backend Development dengan fokus pada REST API menggunakan Express.js dan TypeScript.
+Kursus ini dirancang untuk pemula yang ingin memahami cara membuat REST API menggunakan Express.js dan TypeScript. Materi disusun secara bertahap mulai dari dasar JavaScript, kemudian TypeScript, lalu Express.js, dan akhirnya membangun REST API yang lengkap.
 
 ## 🎯 Tujuan Pembelajaran
 
@@ -33,7 +17,7 @@ Setelah menyelesaikan kursus ini, peserta diharapkan dapat:
 
 ## 📖 Struktur Materi
 
-### [Modul 1.1: JavaScript Dasar](./backend-development/modul-1-1-javascript-dasar/README.md)
+### [Modul 1.1: JavaScript Dasar](./modul-1-1-javascript-dasar/README.md)
 **Durasi: 2-3 sesi**
 
 - Variabel dan Tipe Data
@@ -43,7 +27,7 @@ Setelah menyelesaikan kursus ini, peserta diharapkan dapat:
 - Async/Await dan Promises
 - Modules (import/export)
 
-### [Modul 1.2: Pengenalan TypeScript](./backend-development/modul-1-2-typescript/README.md)
+### [Modul 1.2: Pengenalan TypeScript](./modul-1-2-typescript/README.md)
 **Durasi: 2-3 sesi**
 
 - Mengapa TypeScript?
@@ -52,7 +36,7 @@ Setelah menyelesaikan kursus ini, peserta diharapkan dapat:
 - Type Inference
 - Migrasi dari JavaScript ke TypeScript
 
-### [Modul 1.3: Git dan GitHub untuk Pemula](./backend-development/modul-1-3-git-github/README.md)
+### [Modul 1.3: Git dan GitHub untuk Pemula](./modul-1-3-git-github/README.md)
 **Durasi: 2-3 sesi**
 
 - Pengenalan Git dan Version Control
@@ -64,7 +48,7 @@ Setelah menyelesaikan kursus ini, peserta diharapkan dapat:
 
 **Catatan:** Modul Git sebaiknya dipelajari sebelum mulai project besar agar bisa menggunakan version control sejak awal.
 
-### [Modul 1.4: Express.js Dasar](./backend-development/modul-1-4-express-dasar/README.md)
+### [Modul 1.4: Express.js Dasar](./modul-1-4-express-dasar/README.md)
 **Durasi: 2-3 sesi**
 
 - Pengenalan Express.js
@@ -73,7 +57,7 @@ Setelah menyelesaikan kursus ini, peserta diharapkan dapat:
 - Request dan Response Objects
 - Error Handling
 
-### [Modul 1.5: REST API Development](./backend-development/modul-1-5-rest-api/README.md)
+### [Modul 1.5: REST API Development](./modul-1-5-rest-api/README.md)
 **Durasi: 3-4 sesi**
 
 - Konsep REST API
@@ -82,7 +66,7 @@ Setelah menyelesaikan kursus ini, peserta diharapkan dapat:
 - Authentication dengan JWT
 - Database Integration (Sequelize)
 
-### [Modul 1.6: Testing API](./backend-development/modul-1-6-testing-api/README.md)
+### [Modul 1.6: Testing API](./modul-1-6-testing-api/README.md)
 **Durasi: 2-3 sesi**
 
 - Pengenalan Testing API
@@ -94,7 +78,7 @@ Setelah menyelesaikan kursus ini, peserta diharapkan dapat:
 
 **Catatan:** Modul Testing dipelajari setelah REST API agar peserta bisa langsung test API yang sudah dibuat.
 
-### [Modul 1.7: Praktik dengan Boilerplate](./backend-development/modul-1-7-praktik-boilerplate/README.md)
+### [Modul 1.7: Praktik dengan Boilerplate](./modul-1-7-praktik-boilerplate/README.md)
 **Durasi: 2-3 sesi**
 
 - Setup Project
@@ -103,20 +87,6 @@ Setelah menyelesaikan kursus ini, peserta diharapkan dapat:
 - Best Practices
 
 **Catatan:** Modul ini adalah praktik akhir dimana peserta akan menggunakan pengetahuan testing yang sudah dipelajari untuk memastikan kode yang dibuat berkualitas.
-
-## 🚀 Cara Menggunakan Materi Ini
-
-1. **Untuk Instruktur:**
-   - Baca setiap modul sebelum mengajar
-   - Siapkan contoh kode yang akan didemonstrasikan
-   - Siapkan latihan untuk setiap modul
-   - Gunakan repository boilerplate sebagai referensi akhir
-
-2. **Untuk Peserta:**
-   - Ikuti urutan modul secara berurutan
-   - Praktikkan setiap konsep yang dipelajari
-   - Kerjakan latihan di setiap modul
-   - Jangan terburu-buru, pahami konsepnya terlebih dahulu
 
 ## 📁 Repository Referensi
 
@@ -138,12 +108,14 @@ Repository yang digunakan sebagai referensi:
 - Progress bertahap sangat penting - jangan skip modul
 - Repository boilerplate adalah target akhir yang ingin dicapai
 
----
+## ⏱️ Estimasi Waktu
 
-## 🚧 Materi Lainnya
+**Total Durasi: 16-22 Sesi** (tergantung kecepatan peserta)
 
-### [Frontend Development](./frontend-development/README.md)
-Materi Frontend Development akan segera ditambahkan.
-
-### [Mobile Development](./mobile-development/README.md)
-Materi Mobile Development akan segera ditambahkan.
+- Modul 1.1: 2-3 sesi
+- Modul 1.2: 2-3 sesi
+- Modul 1.3: 2-3 sesi
+- Modul 1.4: 2-3 sesi
+- Modul 1.5: 3-4 sesi (modul terpanjang)
+- Modul 1.6: 2-3 sesi
+- Modul 1.7: 2-3 sesi

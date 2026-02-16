@@ -1,4 +1,4 @@
-# Modul 5: REST API Development
+# Modul 1.5: REST API Development
 
 ## 🎯 Tujuan Pembelajaran
 
@@ -1163,7 +1163,7 @@ export default {
 
 ---
 
-## ✅ Review Modul 5
+## ✅ Review Modul 1.5
 
 ### Checklist Pemahaman
 
@@ -1199,7 +1199,7 @@ Buat REST API lengkap dengan fitur berikut:
 
 ## 🎯 Persiapan untuk Modul Berikutnya
 
-Modul berikutnya akan membahas Testing API. Pastikan peserta sudah nyaman dengan:
+Modul berikutnya (1.6) akan membahas Testing API. Pastikan peserta sudah nyaman dengan:
 - ✅ REST API development
 - ✅ CRUD operations
 - ✅ Authentication

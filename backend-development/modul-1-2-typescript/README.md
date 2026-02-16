@@ -1,4 +1,4 @@
-# Modul 2: Pengenalan TypeScript
+# Modul 1.2: Pengenalan TypeScript
 
 ## 🎯 Tujuan Pembelajaran
 
@@ -779,7 +779,7 @@ export function createUser(userData: CreateUserData): User {
 
 ---
 
-## ✅ Review Modul 2
+## ✅ Review Modul 1.2
 
 ### Checklist Pemahaman
 
@@ -819,7 +819,7 @@ project/
 
 ## 🎯 Persiapan untuk Modul Berikutnya
 
-Modul berikutnya akan memperkenalkan Git dan GitHub. Pastikan peserta sudah nyaman dengan:
+Modul berikutnya (1.3) akan memperkenalkan Git dan GitHub. Pastikan peserta sudah nyaman dengan:
 - ✅ TypeScript basics (types, interfaces)
 - ✅ Function dengan type annotations
 - ✅ Async/await (dari Modul 1)

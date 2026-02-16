@@ -1,4 +1,4 @@
-# Modul 1: JavaScript Dasar
+# Modul 1.1: JavaScript Dasar
 
 ## 🎯 Tujuan Pembelajaran
 
@@ -616,7 +616,7 @@ console.log(multiply(2, 3));   // 6
 
 ---
 
-## ✅ Review Modul 1
+## ✅ Review Modul 1.1
 
 ### Checklist Pemahaman
 
@@ -659,7 +659,7 @@ project/
 
 ## 🎯 Persiapan untuk Modul Berikutnya
 
-Modul berikutnya akan memperkenalkan TypeScript. Pastikan peserta sudah nyaman dengan:
+Modul berikutnya (1.2) akan memperkenalkan TypeScript. Pastikan peserta sudah nyaman dengan:
 - ✅ Sintaks JavaScript modern (ES6+)
 - ✅ Konsep function dan arrow function
 - ✅ Array methods

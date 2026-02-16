@@ -1,4 +1,4 @@
-# Modul 3: Git dan GitHub untuk Pemula
+# Modul 1.3: Git dan GitHub untuk Pemula
 
 ## 🎯 Tujuan Pembelajaran
 
@@ -1221,7 +1221,7 @@ git push -u origin feature/add-products
 
 ---
 
-## ✅ Review Modul 3
+## ✅ Review Modul 1.3
 
 ### Checklist Pemahaman
 
@@ -1269,7 +1269,7 @@ Setelah modul ini, pastikan peserta memahami:
 
 ## 🎯 Persiapan untuk Modul Berikutnya
 
-Modul berikutnya akan memperkenalkan Express.js. Pastikan peserta sudah nyaman dengan:
+Modul berikutnya (1.4) akan memperkenalkan Express.js. Pastikan peserta sudah nyaman dengan:
 - ✅ Git basics (init, add, commit, push, pull)
 - ✅ Branch dan merge
 - ✅ GitHub untuk remote repository

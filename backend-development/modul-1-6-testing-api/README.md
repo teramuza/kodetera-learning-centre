@@ -1,4 +1,4 @@
-# Modul 6: Testing API
+# Modul 1.6: Testing API
 
 ## 🎯 Tujuan Pembelajaran
 
@@ -1163,7 +1163,7 @@ it('should respond within acceptable time', async () => {
 
 ---
 
-## ✅ Review Modul 6
+## ✅ Review Modul 1.6
 
 ### Checklist Pemahaman
 
@@ -1210,7 +1210,7 @@ Setelah modul ini, pastikan peserta memahami:
 
 ## 🎯 Persiapan untuk Modul Berikutnya
 
-Modul berikutnya akan membahas praktik dengan boilerplate repository. Pastikan peserta sudah nyaman dengan:
+Modul berikutnya (1.7) akan membahas praktik dengan boilerplate repository. Pastikan peserta sudah nyaman dengan:
 - ✅ Testing dengan Postman untuk manual testing
 - ✅ Unit testing dengan Jest
 - ✅ Integration testing

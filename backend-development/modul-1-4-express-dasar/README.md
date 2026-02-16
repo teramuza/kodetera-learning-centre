@@ -1,4 +1,4 @@
-# Modul 4: Express.js Dasar
+# Modul 1.4: Express.js Dasar
 
 ## 🎯 Tujuan Pembelajaran
 
@@ -706,7 +706,7 @@ app.get('/users/:id', asyncHandler(async (req: Request, res: Response) => {
 
 ---
 
-## ✅ Review Modul 4
+## ✅ Review Modul 1.4
 
 ### Checklist Pemahaman
 
@@ -757,7 +757,7 @@ interface Task {
 
 ## 🎯 Persiapan untuk Modul Berikutnya
 
-Modul berikutnya akan membahas REST API development yang lebih advanced. Pastikan peserta sudah nyaman dengan:
+Modul berikutnya (1.5) akan membahas REST API development yang lebih advanced. Pastikan peserta sudah nyaman dengan:
 - ✅ Express.js basics
 - ✅ Routing dan HTTP methods
 - ✅ Middleware

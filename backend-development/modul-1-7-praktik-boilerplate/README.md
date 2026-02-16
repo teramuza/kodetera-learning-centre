@@ -1,4 +1,4 @@
-# Modul 7: Praktik dengan Boilerplate
+# Modul 1.7: Praktik dengan Boilerplate
 
 ## 🎯 Tujuan Pembelajaran
 
@@ -992,7 +992,7 @@ Invalid token
 
 ---
 
-## ✅ Review Modul 7
+## ✅ Review Modul 1.7
 
 ### Checklist Pemahaman
 

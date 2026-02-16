@@ -4,35 +4,33 @@
 
 ```
 learning-centre/
-├── README.md                              # Overview kursus
+├── README.md                              # Overview repository
 ├── PANDUAN-INSTRUKTUR.md                  # Panduan untuk instruktur
 ├── RINGKASAN-MATERI.md                    # File ini
 │
-├── modul-01-javascript-dasar/
-│   └── README.md                          # Materi JavaScript dasar
+├── backend-development/                   # Materi Backend Development
+│   ├── modul-1-1-javascript-dasar/
+│   │   └── README.md                      # Modul 1.1: JavaScript Dasar
+│   ├── modul-1-2-typescript/
+│   │   └── README.md                      # Modul 1.2: TypeScript
+│   ├── modul-1-3-git-github/
+│   │   └── README.md                      # Modul 1.3: Git dan GitHub
+│   ├── modul-1-4-express-dasar/
+│   │   └── README.md                      # Modul 1.4: Express.js Dasar
+│   ├── modul-1-5-rest-api/
+│   │   └── README.md                      # Modul 1.5: REST API Development
+│   ├── modul-1-6-testing-api/
+│   │   └── README.md                      # Modul 1.6: Testing API
+│   └── modul-1-7-praktik-boilerplate/
+│       └── README.md                      # Modul 1.7: Praktik Boilerplate
 │
-├── modul-02-typescript/
-│   └── README.md                          # Materi TypeScript
-│
-├── modul-03-git-github/
-│   └── README.md                          # Git dan GitHub untuk pemula
-│
-├── modul-04-express-dasar/
-│   └── README.md                          # Materi Express.js dasar
-│
-├── modul-05-rest-api/
-│   └── README.md                          # Materi REST API development
-│
-├── modul-06-testing-api/
-│   └── README.md                          # Testing API
-│
-└── modul-07-praktik-boilerplate/
-    └── README.md                          # Praktik dengan boilerplate
+├── frontend-development/                  # Materi Frontend Development (akan ditambahkan)
+└── mobile-development/                    # Materi Mobile Development (akan ditambahkan)
 ```
 
-## 📚 Isi Setiap Modul
+## 📚 Isi Setiap Modul (Backend Development)
 
-### Modul 1: JavaScript Dasar (2-3 sesi)
+### Modul 1.1: JavaScript Dasar (2-3 sesi)
 **Topik:**
 - Variabel dan Tipe Data
 - Fungsi dan Arrow Functions
@@ -43,7 +41,7 @@ learning-centre/
 
 **Fokus:** Memahami JavaScript modern sebelum masuk ke TypeScript
 
-### Modul 2: TypeScript (2-3 sesi)
+### Modul 1.2: TypeScript (2-3 sesi)
 **Topik:**
 - Mengapa TypeScript?
 - Basic Types
@@ -55,7 +53,7 @@ learning-centre/
 
 **Fokus:** Type safety untuk development yang lebih baik
 
-### Modul 3: Git dan GitHub untuk Pemula (2-3 sesi)
+### Modul 1.3: Git dan GitHub untuk Pemula (2-3 sesi)
 **Topik:**
 - Pengenalan Git dan Version Control
 - Git Commands Dasar (init, add, commit, push, pull)
@@ -68,7 +66,7 @@ learning-centre/
 
 **Catatan:** Modul Git dipelajari setelah TypeScript agar peserta bisa menggunakan Git sejak awal saat belajar Express dan REST API.
 
-### Modul 4: Express.js Dasar (2-3 sesi)
+### Modul 1.4: Express.js Dasar (2-3 sesi)
 **Topik:**
 - Pengenalan Express.js
 - Routing dan HTTP Methods
@@ -78,7 +76,7 @@ learning-centre/
 
 **Fokus:** Memahami framework Express.js
 
-### Modul 5: REST API Development (3-4 sesi)
+### Modul 1.5: REST API Development (3-4 sesi)
 **Topik:**
 - Konsep REST API
 - CRUD Operations Lengkap
@@ -88,7 +86,7 @@ learning-centre/
 
 **Fokus:** Membangun REST API yang lengkap dan proper
 
-### Modul 6: Testing API (2-3 sesi)
+### Modul 1.6: Testing API (2-3 sesi)
 **Topik:**
 - Pengenalan Testing API
 - Testing dengan Postman (Manual Testing)
@@ -101,7 +99,7 @@ learning-centre/
 
 **Catatan:** Modul Testing dipelajari setelah REST API agar peserta bisa langsung test API yang sudah dibuat sebelum praktik dengan boilerplate.
 
-### Modul 7: Praktik dengan Boilerplate (2-3 sesi)
+### Modul 1.7: Praktik dengan Boilerplate (2-3 sesi)
 **Topik:**
 - Setup Boilerplate
 - Memahami Struktur Project
@@ -201,13 +199,13 @@ Setelah menyelesaikan semua modul, peserta diharapkan dapat:
 
 **Total: 16-22 Sesi** (tergantung kecepatan peserta)
 
-- Modul 1: 2-3 sesi
-- Modul 2: 2-3 sesi
-- Modul 3: 2-3 sesi (Git dan GitHub)
-- Modul 4: 2-3 sesi (Express.js Dasar)
-- Modul 5: 3-4 sesi (REST API Development - modul terpanjang)
-- Modul 6: 2-3 sesi (Praktik dengan Boilerplate)
-- Modul 7: 2-3 sesi (Testing API)
+- Modul 1.1: 2-3 sesi (JavaScript Dasar)
+- Modul 1.2: 2-3 sesi (TypeScript)
+- Modul 1.3: 2-3 sesi (Git dan GitHub)
+- Modul 1.4: 2-3 sesi (Express.js Dasar)
+- Modul 1.5: 3-4 sesi (REST API Development - modul terpanjang)
+- Modul 1.6: 2-3 sesi (Testing API)
+- Modul 1.7: 2-3 sesi (Praktik dengan Boilerplate)
 
 ## 🔗 Referensi
 
