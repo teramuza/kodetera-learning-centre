@@ -13,7 +13,7 @@ Setelah modul ini, peserta dapat:
 
 ---
 
-## 📚 Materi 5.1: Setup Boilerplate
+## 📚 Materi 6.1: Setup Boilerplate
 
 ### Penjelasan untuk Instruktur
 
@@ -119,7 +119,7 @@ curl http://localhost:3000/health
 # { "status": "ok", "timestamp": "2024-..." }
 ```
 
-### Latihan 5.1
+### Latihan 6.1
 
 ```bash
 # Setup boilerplate di komputer Anda:
@@ -136,7 +136,7 @@ curl http://localhost:3000/health
 
 ---
 
-## 📚 Materi 5.2: Memahami Struktur Project
+## 📚 Materi 6.2: Memahami Struktur Project
 
 ### Penjelasan untuk Instruktur
 
@@ -237,7 +237,7 @@ middlewares/
 └── rateLimiter.ts      # Rate limiting
 ```
 
-### Latihan 5.2
+### Latihan 6.2
 
 ```typescript
 // Jelajahi struktur project boilerplate:
@@ -252,7 +252,7 @@ middlewares/
 
 ---
 
-## 📚 Materi 5.3: Memahami Arsitektur
+## 📚 Materi 6.3: Memahami Arsitektur
 
 ### Penjelasan untuk Instruktur
 
@@ -358,7 +358,7 @@ app.use(errorHandler);
 }
 ```
 
-### Latihan 5.3
+### Latihan 6.3
 
 ```typescript
 // Analisis arsitektur boilerplate:
@@ -373,7 +373,7 @@ app.use(errorHandler);
 
 ---
 
-## 📚 Materi 5.4: Menambahkan Fitur Baru
+## 📚 Materi 6.4: Menambahkan Fitur Baru
 
 ### Penjelasan untuk Instruktur
 
@@ -725,7 +725,7 @@ export default {
 npm run db:migrate
 ```
 
-### Latihan 5.4
+### Latihan 6.4
 
 ```typescript
 // Tambahkan fitur baru ke boilerplate:
@@ -750,7 +750,7 @@ npm run db:migrate
 
 ---
 
-## 📚 Materi 5.5: Best Practices
+## 📚 Materi 6.5: Best Practices
 
 ### Penjelasan untuk Instruktur
 
@@ -872,7 +872,7 @@ res.json(users); // Langsung return data
 res.json({ users }); // Format berbeda
 ```
 
-### Latihan 5.5
+### Latihan 6.5
 
 ```typescript
 // Review kode yang sudah Anda buat:
@@ -888,7 +888,7 @@ res.json({ users }); // Format berbeda
 
 ---
 
-## 📚 Materi 5.6: Troubleshooting Common Issues
+## 📚 Materi 6.6: Troubleshooting Common Issues
 
 ### Penjelasan untuk Instruktur
 
@@ -976,7 +976,7 @@ Invalid token
 - Check token expiration
 - Verify token di jwt.io untuk debugging
 
-### Latihan 5.6
+### Latihan 6.6
 
 ```typescript
 // Jika Anda mengalami error:
@@ -992,7 +992,7 @@ Invalid token
 
 ---
 
-## ✅ Review Modul 5
+## ✅ Review Modul 6
 
 ### Checklist Pemahaman
 

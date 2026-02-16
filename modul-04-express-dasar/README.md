@@ -104,7 +104,7 @@ app.listen(PORT, () => {
 }
 ```
 
-### Latihan 3.1
+### Latihan 4.1
 
 ```typescript
 // Buat server Express sederhana yang:
@@ -231,7 +231,7 @@ app.post('/users', (req: Request, res: Response) => {
 // Body: { "name": "John", "email": "john@example.com", "age": 25 }
 ```
 
-### Latihan 3.2
+### Latihan 4.2
 
 ```typescript
 // Buat routes berikut:
@@ -368,7 +368,7 @@ app.get('/error', (req: Request, res: Response) => {
 });
 ```
 
-### Latihan 3.3
+### Latihan 4.3
 
 ```typescript
 // Buat middleware berikut:
@@ -532,7 +532,7 @@ app.post('/users', (req: Request, res: Response) => {
 });
 ```
 
-### Latihan 3.4
+### Latihan 4.4
 
 ```typescript
 // Buat endpoints berikut dengan proper request/response handling:
@@ -691,7 +691,7 @@ app.get('/users/:id', asyncHandler(async (req: Request, res: Response) => {
 }));
 ```
 
-### Latihan 3.5
+### Latihan 4.5
 
 ```typescript
 // Implementasikan error handling untuk aplikasi Express:
@@ -706,7 +706,7 @@ app.get('/users/:id', asyncHandler(async (req: Request, res: Response) => {
 
 ---
 
-## ✅ Review Modul 3
+## ✅ Review Modul 4
 
 ### Checklist Pemahaman
 

@@ -21,7 +21,7 @@ Setelah modul ini, peserta dapat:
 
 ---
 
-## 📚 Materi 6.1: Pengenalan Git
+## 📚 Materi 3.1: Pengenalan Git
 
 ### Penjelasan untuk Instruktur
 
@@ -146,7 +146,7 @@ git config --global core.editor "nano"  # Nano editor
 git config --list
 ```
 
-### Latihan 6.1
+### Latihan 3.1
 
 ```bash
 # Setup Git di komputer Anda:
@@ -160,7 +160,7 @@ git config --list
 
 ---
 
-## 📚 Materi 6.2: Git Commands Dasar
+## 📚 Materi 3.2: Git Commands Dasar
 
 ### Penjelasan untuk Instruktur
 
@@ -359,7 +359,7 @@ git restore --staged app.js
 git restore app.js
 ```
 
-### Latihan 6.2
+### Latihan 3.2
 
 ```bash
 # Praktikkan workflow Git:
@@ -378,7 +378,7 @@ git restore app.js
 
 ---
 
-## 📚 Materi 6.3: Branch dan Merge
+## 📚 Materi 3.3: Branch dan Merge
 
 ### Penjelasan untuk Instruktur
 
@@ -534,7 +534,7 @@ git commit -m "Resolve merge conflict"
 - Baca dengan teliti, pilih versi yang benar
 - Atau gabungkan kedua perubahan jika perlu
 
-### Latihan 6.3
+### Latihan 3.3
 
 ```bash
 # Praktikkan branch dan merge:
@@ -551,7 +551,7 @@ git commit -m "Resolve merge conflict"
 
 ---
 
-## 📚 Materi 6.4: GitHub (Remote Repository)
+## 📚 Materi 3.4: GitHub (Remote Repository)
 
 ### Penjelasan untuk Instruktur
 
@@ -717,7 +717,7 @@ git checkout main
 git pull
 ```
 
-### Latihan 6.4
+### Latihan 3.4
 
 ```bash
 # Praktikkan GitHub:
@@ -736,7 +736,7 @@ git pull
 
 ---
 
-## 📚 Materi 6.5: Menggunakan Sourcetree (GUI Git)
+## 📚 Materi 3.5: Menggunakan Sourcetree (GUI Git)
 
 ### Penjelasan untuk Instruktur
 
@@ -877,7 +877,7 @@ git pull
 - Bulatan = commit
 - Warna berbeda = branch berbeda
 
-### Latihan 6.5
+### Latihan 3.5
 
 ```bash
 # Praktikkan dengan Sourcetree:
@@ -898,7 +898,7 @@ git pull
 
 ---
 
-## 📚 Materi 6.6: Best Practices dan Workflow
+## 📚 Materi 3.6: Best Practices dan Workflow
 
 ### Penjelasan untuk Instruktur
 
@@ -1086,7 +1086,7 @@ git branch -d feature/my-feature
 - Pastikan semua test pass
 - Request review sebelum merge
 
-### Latihan 6.6
+### Latihan 3.6
 
 ```bash
 # Praktikkan best practices:
@@ -1102,7 +1102,7 @@ git branch -d feature/my-feature
 
 ---
 
-## 📚 Materi 6.7: Praktik dengan Repository Boilerplate
+## 📚 Materi 3.7: Praktik dengan Repository Boilerplate
 
 ### Penjelasan untuk Instruktur
 
@@ -1200,7 +1200,7 @@ git push -u origin feature/add-products
 5. Push ke GitHub
 6. Lihat visual graph untuk memahami history
 
-### Latihan 6.7
+### Latihan 3.7
 
 ```bash
 # Praktikkan dengan boilerplate:
@@ -1221,7 +1221,7 @@ git push -u origin feature/add-products
 
 ---
 
-## ✅ Review Modul 6
+## ✅ Review Modul 3
 
 ### Checklist Pemahaman
 

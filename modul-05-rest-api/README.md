@@ -14,7 +14,7 @@ Setelah modul ini, peserta dapat:
 
 ---
 
-## 📚 Materi 4.1: Konsep REST API
+## 📚 Materi 5.1: Konsep REST API
 
 ### Penjelasan untuk Instruktur
 
@@ -103,7 +103,7 @@ GET    /api/users/:userId/posts/:id    → Get specific post
 POST   /api/users/:userId/posts        → Create post for user
 ```
 
-### Latihan 4.1
+### Latihan 5.1
 
 ```typescript
 // Rancang REST API endpoints untuk:
@@ -119,7 +119,7 @@ POST   /api/users/:userId/posts        → Create post for user
 
 ---
 
-## 📚 Materi 4.2: CRUD Operations Lengkap
+## 📚 Materi 5.2: CRUD Operations Lengkap
 
 ### Penjelasan untuk Instruktur
 
@@ -370,7 +370,7 @@ app.listen(3000, () => {
 });
 ```
 
-### Latihan 4.2
+### Latihan 5.2
 
 ```typescript
 // Implementasikan CRUD lengkap untuk Products dengan struktur:
@@ -393,7 +393,7 @@ app.listen(3000, () => {
 
 ---
 
-## 📚 Materi 4.3: Validation dan Error Handling
+## 📚 Materi 5.3: Validation dan Error Handling
 
 ### Penjelasan untuk Instruktur
 
@@ -672,7 +672,7 @@ export class UserController {
 }
 ```
 
-### Latihan 4.3
+### Latihan 5.3
 
 ```typescript
 // Implementasikan validation dan error handling untuk Products:
@@ -687,7 +687,7 @@ export class UserController {
 
 ---
 
-## 📚 Materi 4.4: Authentication dengan JWT
+## 📚 Materi 5.4: Authentication dengan JWT
 
 ### Penjelasan untuk Instruktur
 
@@ -915,7 +915,7 @@ router.delete('/:id', authenticate, userController.deleteUser);
 export default router;
 ```
 
-### Latihan 4.4
+### Latihan 5.4
 
 ```typescript
 // Implementasikan authentication:
@@ -930,7 +930,7 @@ export default router;
 
 ---
 
-## 📚 Materi 4.5: Database Integration dengan Sequelize
+## 📚 Materi 5.5: Database Integration dengan Sequelize
 
 ### Penjelasan untuk Instruktur
 
@@ -1149,7 +1149,7 @@ export default {
 };
 ```
 
-### Latihan 4.5
+### Latihan 5.5
 
 ```typescript
 // Implementasikan database integration untuk Products:
@@ -1163,7 +1163,7 @@ export default {
 
 ---
 
-## ✅ Review Modul 4
+## ✅ Review Modul 5
 
 ### Checklist Pemahaman
 
