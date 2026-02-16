@@ -23,8 +23,11 @@ learning-centre/
 ├── modul-05-rest-api/
 │   └── README.md                          # Materi REST API development
 │
-└── modul-06-praktik-boilerplate/
-    └── README.md                          # Praktik dengan boilerplate
+├── modul-06-praktik-boilerplate/
+│   └── README.md                          # Praktik dengan boilerplate
+│
+└── modul-07-testing-api/
+    └── README.md                          # Testing API
 ```
 
 ## 📚 Isi Setiap Modul
@@ -95,6 +98,17 @@ learning-centre/
 - Troubleshooting
 
 **Fokus:** Menerapkan pengetahuan ke project nyata
+
+### Modul 7: Testing API (2-3 sesi)
+**Topik:**
+- Pengenalan Testing API
+- Testing dengan Postman (Manual Testing)
+- Unit Testing dengan Jest
+- Integration Testing dengan Supertest
+- Test Coverage dan Best Practices
+- Advanced Testing Techniques
+
+**Fokus:** Memastikan kualitas kode dengan testing
 
 ## 🎯 Karakteristik Materi
 
@@ -177,12 +191,13 @@ Setelah menyelesaikan semua modul, peserta diharapkan dapat:
 - ✅ Mengimplementasikan authentication dengan JWT
 - ✅ Mengintegrasikan database dengan Sequelize
 - ✅ Menggunakan Git dan GitHub untuk version control
+- ✅ Testing API dengan Postman dan automated testing
 - ✅ Menerapkan best practices dalam development
 - ✅ Bekerja dengan project boilerplate yang terstruktur
 
 ## ⏱️ Estimasi Waktu
 
-**Total: 14-19 Sesi** (tergantung kecepatan peserta)
+**Total: 16-22 Sesi** (tergantung kecepatan peserta)
 
 - Modul 1: 2-3 sesi
 - Modul 2: 2-3 sesi
@@ -190,6 +205,7 @@ Setelah menyelesaikan semua modul, peserta diharapkan dapat:
 - Modul 4: 2-3 sesi (Express.js Dasar)
 - Modul 5: 3-4 sesi (REST API Development - modul terpanjang)
 - Modul 6: 2-3 sesi (Praktik dengan Boilerplate)
+- Modul 7: 2-3 sesi (Testing API)
 
 ## 🔗 Referensi
 

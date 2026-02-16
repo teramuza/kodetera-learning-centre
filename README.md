@@ -12,6 +12,7 @@ Setelah menyelesaikan kursus ini, peserta diharapkan dapat:
 - Membangun REST API dengan Express.js
 - Memahami struktur project Express yang baik
 - Menggunakan Git dan GitHub untuk version control
+- Testing API dengan Postman dan automated testing
 - Menerapkan best practices dalam pengembangan backend
 
 ## 📖 Struktur Materi
@@ -72,6 +73,16 @@ Setelah menyelesaikan kursus ini, peserta diharapkan dapat:
 - Struktur Project
 - Implementasi Fitur Baru
 - Best Practices
+
+### [Modul 7: Testing API](./modul-07-testing-api/README.md)
+**Durasi: 2-3 sesi**
+
+- Pengenalan Testing API
+- Testing dengan Postman (Manual Testing)
+- Unit Testing dengan Jest
+- Integration Testing
+- Test Coverage dan Best Practices
+- Advanced Testing Techniques
 
 ## 🚀 Cara Menggunakan Materi Ini
 
